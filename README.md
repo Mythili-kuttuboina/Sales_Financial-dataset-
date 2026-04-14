@@ -38,6 +38,7 @@ Drill-down capability for deeper insights
 Cross-filtering across all visuals
 ![dashboard_1](https://github.com/Mythili-kuttuboina/Sales_Financial-dataset-/blob/main/dashboard_1.png?raw=true)
 ![dashboard_2](https://github.com/Mythili-kuttuboina/Sales_Financial-dataset-/blob/main/dashboard_2.png?raw=true)
+
 📊 Key Insights
 A small number of products contribute to a major portion of revenue
 Sales show seasonal patterns and growth trends
